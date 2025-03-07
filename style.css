@@ -319,6 +319,7 @@ label{
 
 .ticket__container
 {
+    width: 100%;
     position: relative;
 }
 
@@ -349,8 +350,8 @@ label{
  #ticket-username{
     position: absolute;
     bottom: 30%;
-    right: 61%;
-    font-size: 1.3rem;
+    right: 59%;
+    font-size: 1.2rem;
     color: var(--neutral-0);
     display: flex;
     align-items: flex-start;
@@ -370,7 +371,7 @@ label{
 }
 
 .ticket__img__container img{
-    width: 45px;
+    width: 52px;
     border-radius: 15%;
     position: absolute;
     bottom: 13%;
